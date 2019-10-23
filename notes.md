@@ -12,7 +12,8 @@
 
 ###Git Methodology
   + That diagram comparing all the main commands
-  + Hashes (This will probably need to be moved)
+  + Hashes (This will probably need to be moved
+  )
 
 ###Main Git Commands
   + Compare each command to the diagram, big picture == memorization?
