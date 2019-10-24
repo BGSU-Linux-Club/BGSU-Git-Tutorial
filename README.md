@@ -22,7 +22,7 @@ Git is available at https://gitforwindows.org
 ## Common Git Problems, and diagnosing them.
 $man git <command> answers a lot of questions.
 
-####I made a typo in my commit message!
+#### I made a typo in my commit message!
 $git commit --amend will allow you to edit the commit note.
 
 ## Git best practices.
